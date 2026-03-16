@@ -1,0 +1,5 @@
+{
+  "name": "QuizMaster Pro",
+  "description": "A full-stack programming quiz platform with an admin creator panel, student interface, and real-time leaderboards.",
+  "requestFramePermissions": []
+}
